@@ -5,7 +5,7 @@ pipeline {
         IMAGE_NAME = "krishnasamy47/my-app"
         REGISTRY = "docker.io"
         DOCKER_CREDENTIALS_ID = "docker-hub-creds"
-        GITHUB_CREDENTIALS_ID = "github"
+        GITHUB_CREDENTIALS_ID = "githubs"
         APP_DIR = "/opt/docker-kec"
     }
 
